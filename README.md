@@ -35,7 +35,7 @@ BodegaPOS es un avanzado y robusto Sistema de Punto de Venta (POS) e Inventario 
 
 1.  **Clonar el repositorio**
     ```bash
-    git clone https://github.com/TU_USUARIO/BodegaPOS.git
+    git clone https://github.com/JorgeCabrera2003/BodegaPOS.git
     cd BodegaPOS
     ```
 
